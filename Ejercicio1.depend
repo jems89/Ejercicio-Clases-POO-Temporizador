@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1622157223 source:c:\users\jems8\desktop\parcial\ejercicio1\main.cpp
+	"Temporizador.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+	<stdlib.h>
+
+1622157212 source:c:\users\jems8\desktop\parcial\ejercicio1\src\temporizador.cpp
+	"Temporizador.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+	<stdlib.h>
+
+1622158880 c:\users\jems8\desktop\parcial\ejercicio1\include\temporizador.h
+
